@@ -1,3 +1,7 @@
+# Jeff Pinegar
+# jeffpinegar1@gmail.com
+# Dec. 7, 2022
+
 # To run this in git bash 
     # export FLASK_APP=hello where hello is the name of our python file hello.py
     # export FLASK_ENV=development
